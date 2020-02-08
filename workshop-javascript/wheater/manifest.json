@@ -1,0 +1,11 @@
+{
+    "name": "Wheater",
+    "version": "1.0",
+    "description": "Wheater now",
+    "manifest_version": 2,
+    "permissions":["declarativeContent","storage","tabs","activeTab"],
+    "browser_action": {
+        "default_popup": "popup.html"
+      }
+   
+  }
